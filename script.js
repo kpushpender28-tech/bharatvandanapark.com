@@ -1,0 +1,1 @@
+console.log('Bharat Vandana Park website loaded');

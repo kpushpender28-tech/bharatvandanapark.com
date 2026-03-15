@@ -1,0 +1,10 @@
+
+body{margin:0;font-family:Arial;background:#f4f4f4}
+header{background:#0c1a2a;color:white;padding:15px}
+nav a{color:white;margin:10px;text-decoration:none}
+.hero{height:400px;background:#333;color:white;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+.btn{background:#ff7a00;padding:10px 20px;color:white;text-decoration:none;border-radius:5px}
+.cards{display:flex;gap:20px;justify-content:center;padding:40px}
+.card{background:white;padding:10px;border-radius:10px;box-shadow:0 4px 10px rgba(0,0,0,0.2)}
+.card img{width:250px;height:160px;object-fit:cover}
+footer{background:#0c1a2a;color:white;text-align:center;padding:20px}
